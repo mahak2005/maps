@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+h3 {
+  margin: 0;
+  padding-bottom: 10px;
+}
+
+input {
+  display: block;
+  margin-bottom: 10px;
+}
